@@ -1,1 +1,2 @@
 Přidán text při úspěšném provedení akce.
+Přidán checkpoint systém
