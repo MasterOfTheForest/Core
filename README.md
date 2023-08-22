@@ -1,9 +1,9 @@
 ### README.MD
 
-## VERZE APLHA 1.0**
+## VERZE APLHA 1.1**
 
-# + Přidána amimace pohybu postavy.
-# + Přidán tutoriál do nastavení.
-# + Přidán ukazatel životů hráče
+# + Přidány tlačítka na GameOver Screen.
+# + Opraven bug MENU Tlačítka.
 
-# * Přenastaveno vybírání postavy.
+# * Updaven text v levém rohu.
+# * Předěláno pár nastavení tlačítek
