@@ -6,4 +6,5 @@
 # + Opraven bug MENU Tlačítka.
 
 
-# * Updaven text v levém rohu.
+# * Updaven text v pravém rohu.
+# * Předěláno pár nastavení tlačítek
